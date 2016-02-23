@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2016-02-23
+  breed_id: 
+  medical_conditions: MyString
+  vet_id: 
+  in_daycare: false
+
+two:
+  name: MyString
+  dob: 2016-02-23
+  breed_id: 
+  medical_conditions: MyString
+  vet_id: 
+  in_daycare: false
